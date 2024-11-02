@@ -1,0 +1,55 @@
+Rendering for iteration 1
+Rendering done for iteration 1
+Loss for iteration 1: 0.4740818440914154
+Rendering for iteration 2
+Rendering done for iteration 2
+Loss for iteration 2: 0.459285706281662
+Rendering for iteration 3
+Rendering done for iteration 3
+Loss for iteration 3: 0.4416227340698242
+Rendering for iteration 4
+Rendering done for iteration 4
+Loss for iteration 4: 0.4238477647304535
+Rendering for iteration 5
+Rendering done for iteration 5
+Loss for iteration 5: 0.4078099727630615
+Rendering for iteration 6
+Rendering done for iteration 6
+Loss for iteration 6: 0.3946881592273712
+Rendering for iteration 7
+Rendering done for iteration 7
+Loss for iteration 7: 0.38450887799263
+Rendering for iteration 8
+Rendering done for iteration 8
+Loss for iteration 8: 0.3766937255859375
+Rendering for iteration 9
+Rendering done for iteration 9
+Loss for iteration 9: 0.370697021484375
+Rendering for iteration 10
+Rendering done for iteration 10
+Loss for iteration 10: 0.3661717176437378
+xy Parameter containing:
+tensor([[14.6922, 11.7820],
+        [15.3517, 17.5236],
+        [12.8565, 24.4451],
+        [22.3443, -7.0503],
+        [ 3.5176,  2.9325]], requires_grad=True)
+scaling Parameter containing:
+tensor([[1., 1.],
+        [1., 1.],
+        [1., 1.],
+        [1., 1.],
+        [1., 1.]], requires_grad=True)
+rotation Parameter containing:
+tensor([3.5022, 5.9888, 3.7264, 2.9384, 1.2934], dtype=torch.float64,
+       requires_grad=True)
+opacity Parameter containing:
+tensor([ 0.1252, -0.0406,  0.4474, -0.1104,  0.8417], dtype=torch.float64,
+       requires_grad=True)
+rgb Parameter containing:
+tensor([[ 2.6803e-02,  9.7043e-01,  1.5560e-02],
+        [ 2.3046e-02,  9.7594e-01,  1.9699e-02],
+        [ 3.9264e-02,  9.6052e-01,  1.0579e-02],
+        [ 9.5988e-01,  4.1147e-02,  3.3997e-03],
+        [-5.3258e-04, -2.0975e-04,  1.0504e+00]], dtype=torch.float64,
+       requires_grad=True)
